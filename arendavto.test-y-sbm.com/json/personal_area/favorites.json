@@ -1,0 +1,497 @@
+[{
+		"name" : "Chevrolet Cruze1",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt1",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt1",
+		"price" : "5001 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze2",
+		"bigImgUrl" : "images/personal_area_favorites/big/2.jpg",
+		"bigImgAlt" : "bigImgAlt2",
+		"smallImgUrl" : "images/personal_area_favorites/small/2.jpg",
+		"smallImgAlt" : "smallImgAlt2",
+		"price" : "5002 руб.",
+		"txt" : "Краткая информация 2 об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze3",
+		"bigImgUrl" : "images/personal_area_favorites/big/3.jpg",
+		"bigImgAlt" : "bigImgAlt3",
+		"smallImgUrl" : "images/personal_area_favorites/small/3.jpg",
+		"smallImgAlt" : "smallImgAlt3",
+		"price" : "5003 руб.",
+		"txt" : "Краткая информация 3 об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze4",
+		"bigImgUrl" : "images/personal_area_favorites/big/4.jpg",
+		"bigImgAlt" : "bigImgAlt4",
+		"smallImgUrl" : "images/personal_area_favorites/small/4.jpg",
+		"smallImgAlt" : "smallImgAlt4",
+		"price" : "5004 руб.",
+		"txt" : "Краткая информация 4 об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze5",
+		"bigImgUrl" : "images/personal_area_favorites/big/5.jpg",
+		"bigImgAlt" : "bigImgAlt5",
+		"smallImgUrl" : "images/personal_area_favorites/small/5.jpg",
+		"smallImgAlt" : "smallImgAlt5",
+		"price" : "5005 руб.",
+		"txt" : "Краткая информация 5 об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}, {
+		"name" : "Chevrolet Cruze",
+		"bigImgUrl" : "images/personal_area_favorites/big/1.jpg",
+		"bigImgAlt" : "bigImgAlt",
+		"smallImgUrl" : "images/personal_area_favorites/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt",
+		"price" : "5000 руб.",
+		"txt" : "Краткая информация об автомобиле: место, год выпуска,пробег,расход и тд и тдд краткая информация об автомобиле: место, год выпуска,пробег,расход и тд",
+		"btnHref" : "javascript: alert('В разработке');"
+	}
+]

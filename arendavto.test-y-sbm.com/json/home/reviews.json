@@ -1,0 +1,65 @@
+[{
+		"name" : "Александр Петров",
+		"imageUrl" : "images/home_page/img_clients/customer_1.jpg",
+		"imageAlt" : "img1",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "1.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_2.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "2.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_3.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "3.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_4.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "4.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_5.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "5.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_6.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "6.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_7.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "7.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_8.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "8.09.2014",
+		"hrefUrl" : "#/reviews"
+	}, {
+		"name" : "Александр Сидоров",
+		"imageUrl" : "images/home_page/img_clients/customer_9.jpg",
+		"imageAlt" : "img2",
+		"txt" : " Текст отзыва текст отзыва отзыва текст отзыва текст текст текст текст отзыва отзыва текст отзыва текст отзыва текст...",
+		"date" : "9.09.2014",
+		"hrefUrl" : "#/reviews"
+	}
+]

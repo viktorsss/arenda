@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/arenda2.test-y-sbm.com/webstat"
+AuthUserFile /var/www/ysbmcom/data/etc/1114239.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

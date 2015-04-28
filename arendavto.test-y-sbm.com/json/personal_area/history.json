@@ -1,0 +1,58 @@
+[{
+		"orderNumber" : "670",
+		"car" : {
+			"name" : "Авто BMW X1",
+			"receivingCity" : "Минск1",
+			"returnCity" : "Минск1",
+			"receivingDate" : "01.11.2014",
+			"returnDate" : "11.11.2014",
+			"cost" : "10 000 руб."
+		},
+		"service" : [{
+				"name" : "Аренда навигатора",
+				"receivingCity" : "Минск11",
+				"returnCity" : "Минск11",
+				"receivingDate" : "01.11.2014",
+				"returnDate" : "02.11.2014",
+				"cost" : "800 руб."
+			}, {
+				"name" : "Аренда навигатора",
+				"receivingCity" : "Минск12",
+				"returnCity" : "Витебск12",
+				"receivingDate" : "03.11.2014",
+				"returnDate" : "04.11.2014",
+				"cost" : "1 200 руб."
+			}
+		],
+		"date" : "01.11.2014",
+		"total" : "12 000 руб.",
+	}, {
+		"orderNumber" : "671",
+		"car" : {
+			"name" : "Авто Chrysler 300C2",
+			"receivingCity" : "Минск2",
+			"returnCity" : "Минск2",
+			"receivingDate" : "02.11.2014",
+			"returnDate" : "12.11.2014",
+			"cost" : "10 000 руб."
+		},
+		"service" : [{
+				"name" : "Аренда навигатора",
+				"receivingCity" : "Минск21",
+				"returnCity" : "Минск21",
+				"receivingDate" : "21.11.2014",
+				"returnDate" : "22.11.2014",
+				"cost" : "800 руб."
+			}, {
+				"name" : "Аренда навигатора",
+				"receivingCity" : "Минск22",
+				"returnCity" : "Витебск22",
+				"receivingDate" : "23.11.2014",
+				"returnDate" : "24.11.2014",
+				"cost" : "1 200 руб."
+			}
+		],
+		"date" : "01.11.2014",
+		"total" : "12 000 руб.",
+	}
+]

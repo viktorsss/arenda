@@ -1,0 +1,717 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201502 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.arenda2.test-y-sbm.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2662                
+POS_VISITOR 12240               
+POS_DAY 19196               
+POS_DOMAIN 3594                
+POS_LOGIN 3830                
+POS_ROBOT 3985                
+POS_WORMS 4704                
+POS_EMAILSENDER 4835                
+POS_EMAILRECEIVER 4978                
+POS_SESSION 19996               
+POS_SIDER 20206               
+POS_FILETYPES 5113                
+POS_DOWNLOADS 5426                
+POS_OS 5495                
+POS_BROWSER 5678                
+POS_SCREENSIZE 6810                
+POS_UNKNOWNREFERER 6884                
+POS_UNKNOWNREFERERBROWSER 7454                
+POS_ORIGIN 7624                
+POS_SEREFERRALS 7771                
+POS_PAGEREFS 7956                
+POS_SEARCHWORDS 8776                
+POS_KEYWORDS 9648                
+POS_MISC 2325                
+POS_ERRORS 10431               
+POS_CLUSTER 3686                
+POS_SIDER_404 10586               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20150301000752 1 0 11485212947945
+FirstTime 0
+LastTime 20150228204741
+LastUpdate 20150301010102 1 0 0 0 0
+TotalVisits 315                 
+TotalUnique 169                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 172                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 26 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 9 9 341739 59 71 2599152
+1 18 67 2949550 69 188 6508346
+2 8 8 389496 52 108 3840683
+3 40 148 5276768 59 118 3748980
+4 27 88 2281067 62 100 3553012
+5 18 120 2274581 91 171 5275453
+6 43 213 6850807 59 104 3593861
+7 1310 1459 6447062 105 203 5901847
+8 2730 3343 13606439 81 141 3725697
+9 2239 2782 16235689 86 138 4553368
+10 1551 1855 13166264 128 171 4735876
+11 1899 2071 5369343 95 135 4918916
+12 1989 2088 4828353 83 123 3184114
+13 1867 2067 9132429 59 110 3487375
+14 2109 2436 7934901 61 111 3159795
+15 2307 2521 7467500 75 117 4023152
+16 5426 5538 7153005 64 148 4983047
+17 5278 5379 5020444 63 158 4918368
+18 1387 1641 6030028 57 111 3606183
+19 27 101 4209417 59 93 3505384
+20 29 81 3259003 67 106 3213568
+21 41 78 3370405 81 107 3296488
+22 11 73 2775619 66 87 2506395
+23 19 44 1830634 63 90 3329035
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 30382 34210 138200543
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 16
+yandex 1131 46023471 20150228234716 2
+googlebot 181 8172558 20150228225204 1
+bot[\s_+:,\.\;\/\\-] 164 7239679 20150228210119 5
+robot 45 2191471 20150228130721 0
+python 40 1947480 20150224233246 0
+no_user_agent 25 1217175 20150228081115 0
+mail\.ru 12 597627 20150228235141 0
+mj12bot 9 404172 20150214100551 0
+facebook 7 340809 20150227184740 0
+slurp 3 146061 20150227225324 0
+surveybot 2 97374 20150223154307 0
+archive\.org_bot 1 48687 20150225094854 0
+favicon 2 97374 20150211142048 0
+wget 1 48687 20150215224854 0
+w3c_validator 1 48687 20150208234022 0
+crawl 3 146061 20150226081717 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 399 14468776 0 0
+eot 10 371496 0 0
+png 379 1334643 0 0
+ttf 26 2898680 0 0
+woff 224 7256996 0 0
+frb 84 1097684 0 0
+html 28874 35805378 0 0
+jpg 1449 44178030 0 0
+js 1421 28141580 0 0
+jpeg 66 1886651 0 0
+Unknown 1164 419003 0 0
+gif 114 341626 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/robots.txt 8 0 3720
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 12
+linuxandroid 65
+winlong 5
+winxp 363
+win2000 1
+linuxubuntu 20
+winvista 511
+linux 189
+win7 31357
+macosx 1524
+winunknown 73
+win2003 1
+Unknown 101
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 63
+chrome37.0.2062.124 4
+safari7.0 60
+msie6.0 15
+chrome40.0.2214.115 173
+chrome40.0.2214.91 25445
+chrome40.0.2214.94 4962
+firefox4.0.1 1
+chrome24.0.1309.0 1
+android 7
+firefox2.0.0.1 1
+chrome28.0.1500.95 2
+chrome19.0.1062.0 1
+chrome40.0.2214.111 1416
+chrome23.0.1271.6 6
+firefox4.0 1
+chrome39.0.2171.95 53
+firefox18.0 9
+chrome31.0.1650.57 105
+chrome38.0.2125.111 1
+chrome36.0.1985.125 2
+firefox34.0 1
+firefox24.0 29
+opera9.80 98
+firefox31.0 1
+chrome24.0.1312.71 26
+iphone 46
+msie8.0 118
+firefox13.0.1 2
+chrome34.0.1847.132 4
+chrome32.0.1709.113 28
+chrome39.0.2171.65 1
+msie7.0 1
+chrome38.0.2125.122 28
+firefox23.0 26
+chrome37.0.2062.120 51
+safari8.0 132
+chrome11.0.696.3 1
+msie9.0 49
+Unknown 4
+chrome39.0.2171.71 7
+chrome10.0.648.127 1
+chrome40.0.2214.109 28
+samsung 39
+firefox21.0 1
+firefox33.0 3
+mozilla 174
+firefox25.0 184
+firefox1.0 2
+netscape5.0 1
+firefox22.0 8
+chrome40.0.2214.89 30
+msie10.0 20
+safari5.1 1
+chrome13.0.782.20 1
+firefox3.6.3 2
+chrome41.0.2228.0 1
+chrome23.0.1271.97 22
+safari8.0.3 58
+chrome40.0.2214.93 177
+firefox36.0 3
+safari 355
+firefox35.0 180
+firefox3.6.13 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+\ 20150220113635
+Mozilla/5.0_(compatible;_vkShare;__http://vk.com/dev/Share) 20150211073005
+Mozilla/5.0_(SAMSUNG;_SAMSUNG-GT-S5250/S5250XEKC1;_U;_Bada/1.0;_ru-ru)_AppleWebKit/533.1_(KHTML,_like_Gecko)_Dolfin/2.0_Mobile_WQVGA_SMM-MMS/1.2.0_NexPlayer/3.0_profile/MIDP-2.1_configuration/CLDC-1.1_OPN-B 20150210195210
+Mozilla/2.0_(compatible;_crw) 20150228145906
+Mozilla/5.0_(compatible;_Prlog/1.0;__http://prlog.ru/) 20150224084941
+Mozilla/3.0_(compatible;_Indy_Library) 20150207111856
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+\ 20150220113635
+Airmail_1.4_rv:247_(Macintosh;_Mac_OS_X_10.10.2;_ru_RU) 20150211142046
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 369 370
+From1 1 1
+From2 34 34
+From3 50 115
+From4 29928 33690
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 2 2
+bing 1 1
+yandex 30 30
+ask 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://linkfeedator.ru 9 9
+http://prlog.ru/analysis/com-arenda.ru 7 31
+http://com-arenda.ru 6 6
+http://forum_thread103562.buy-forum.ru 5 32
+http://www.webviki.ru/www.com-arenda.ru 5 5
+http://topic103562.adviceforum.info 4 18
+http://wowrussiandesigner.com/com-arenda/ 2 2
+http://hh.ru/employer/554754 1 1
+http://ledpolice.ru 1 1
+http://vk.com/away.php 1 1
+http://m.vk.com/away.php 1 1
+http://com-arenda.ru/stats/ 1 1
+http://mansio.ru/ms/mmorpg.html 1 1
+http://led-police.ru 1 1
+http://topic103562.forum.adviceforum.info 1 1
+http://wowrussiandesigner.com/com-arenda 1 1
+http://www.com-arenda.ru/favicon.ico 1 1
+http://com-arenda.ru/favicon.ico 1 1
+http://www.s-shot.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 9
+com-arenda.ru 20
+%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d0%b0.%d1%80%d1%83+%d0%bd%d0%be%d0%b2%d0%be%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d1%81%d0%ba 2
+com-arenda.rru 2
+www.comarenda.com 2
+%d0%be%d0%bf%d1%82%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b8%d0%bb%d1%8c+%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b1%d1%83%d1%80%d0%b3+%d1%81%d0%ba%d0%bb%d0%b0%d0%b4+108 1
+mail+com%2darenda%2eru+loc+ua 1
+%d1%82%d0%b0%d1%83%d0%bd%d1%85%d0%b0%d1%83%d1%81%d1%8b+%d1%82%d1%8e%d0%bc%d0%b5%d0%bd%d1%8c 1
+mail+com%2darenda%2eru 1
+%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b8+%d0%b2+%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d1%83+%d0%bf%d0%be%d0%b4+%d0%be%d0%b1%d1%89%d0%b8%d0%bf%d0%b8%d1%82+%d0%b3+%d0%be%d1%80%d0%b5%d0%bd%d0%b1%d1%83%d1%80%d0%b3 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 22
+com-arenda.ru 20
+%d0%bd%d0%be%d0%b2%d0%be%d1%81%d0%b8%d0%b1%d0%b8%d1%80%d1%81%d0%ba 2
+com%2darenda%2eru 2
+com-arenda.rru 2
+%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d0%b0.%d1%80%d1%83 2
+mail 2
+www.comarenda.com 2
+ua 1
+%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d0%b8 1
+%d0%be%d0%bf%d1%82%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b8%d0%bb%d1%8c 1
+%d0%bf%d0%be%d0%b4 1
+%d1%81%d0%ba%d0%bb%d0%b0%d0%b4 1
+%d0%b3 1
+%d0%b5%d0%ba%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%bd%d0%b1%d1%83%d1%80%d0%b3 1
+%d0%be%d0%b1%d1%89%d0%b8%d0%bf%d0%b8%d1%82 1
+108 1
+%d0%b2 1
+%d0%b0%d1%80%d0%b5%d0%bd%d0%b4%d1%83 1
+loc 1
+%d1%82%d0%b0%d1%83%d0%bd%d1%85%d0%b0%d1%83%d1%81%d1%8b 1
+%d0%be%d1%80%d0%b5%d0%bd%d0%b1%d1%83%d1%80%d0%b3 1
+%d1%82%d1%8e%d0%bc%d0%b5%d0%bd%d1%8c 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 116 102892
+302 371 0
+206 1 20267
+400 5 98468
+500 57 112491
+404 538 26462395
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 29
+/section/wp-login.php 1 -
+/spros/kvartiri-36.html 12 -
+/apple-touch-icon-precomposed.png 5 -
+/robots.txt 254 -
+/product/catalog 1 -
+/users/confirm 1 http://arenda2.test-y-sbm.com/users/confirm
+/apple-touch-icon.png 22 -
+/css/daxlinepro-black.eot')%20format('embedded-opentype'),url('daxlinepro-black.woff')%20format('woff'),url('daxlinepro-black.ttf')%20format('truetype 7 http://arenda2.test-y-sbm.com/
+/images/upload/user/resize/noneImg.jpg 16 http://arenda2.test-y-sbm.com/arenda/opishite-vashu-nedvizhimost-s-vygodnoj-storony...-50.html
+/apple-touch-icon-76x76.png 4 -
+/apple-touch-icon-76x76-precomposed.png 4 -
+/administrator/index.php 1 -
+/wp-login/ 1 -
+/prodaja/ 1 -
+/images/upload/resize/noneImg.jpg 143 http://arenda2.test-y-sbm.com/
+/arenda/ 1 -
+/site/images/avatar-1.jpg 5 http://arenda2.test-y-sbm.com/site/about.html
+/wordpress/wp-login.php 1 -
+/spros/skladskoe-pomeschenie-32.html 12 -
+/spros/ofisnoe-pomeschenie-31.html 13 -
+/spros/komnati-37.html 9 -
+/css/nautilus.eot')%20format('embedded-opentype'),url('nautilus.woff')%20format('woff'),url('nautilus.ttf')%20format('truetype'),url('nautilus.svg 7 http://arenda2.test-y-sbm.com/
+/blog/wp-login.php 1 -
+/arenda/kakojto-zagolovok-47.html 1 -
+/admin/wp-login.php 1 -
+/spros/proizvodstvennoe-pomeschenie-34.html 11 -
+/wp-login.php 1 -
+/site/wp-login.php 1 -
+/wp/wp-login.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 172
+5.165.21.39 28694 30007 22698982 20150209145100
+5.19.237.50 511 546 1755754 20150212085424
+80.83.237.92 231 268 486641 20150211143437
+81.17.0.146 97 267 5951051 20150228043810
+5.166.43.223 75 339 5257752 20150214101122
+91.239.215.9 73 73 3554151 20150226095446
+109.188.126.18 62 267 4461121 20150211142441
+46.4.113.114 50 50 2434350 20150223105406
+91.231.45.108 33 67 1517023 20150204173524
+87.241.204.18 21 51 1491250 20150210034018
+83.149.37.207 1 2 70428 20150208062120
+188.232.126.194 2 15 507854 20150226120559
+178.210.65.27 1 1 48687 20150222122107
+37.145.72.225 2 15 507854 20150211163816
+83.149.37.98 3 11 125947 20150218164640
+95.84.254.26 2 15 507854 20150226120558
+80.83.237.14 5 41 1449875 20150211141928
+46.17.44.160 1 1 48687 20150226004302
+95.24.242.221 0 20 522898 
+188.232.111.148 1 26 1002955 20150212093756
+217.69.133.169 3 3 146061 20150224074852
+66.249.83.227 2 13 319207 20150204154734
+92.100.56.22 1 1 48687 20150213091518
+37.204.69.223 2 15 507854 20150214113340
+46.17.44.50 2 2 97374 20150209231745
+5.9.9.4 10 51 1779311 20150218152144
+176.9.207.93 1 1 48687 20150227125703
+94.158.41.171 1 1 48687 20150226085314
+77.41.59.112 14 27 1144027 20150208212037
+109.173.83.225 7 45 1935861 20150220174738
+199.30.24.188 3 27 1264977 20150225061531
+54.144.226.186 1 1 48687 20150226171753
+199.30.24.124 3 27 1264977 20150209090115
+46.188.48.255 1 26 1002955 20150219111252
+195.182.94.10 1 1 48687 20150210174739
+193.41.4.177 6 30 1235302 20150211103051
+5.165.9.27 2 23 616313 20150218085957
+83.149.37.212 2 5 140856 20150212155219
+95.25.62.88 2 15 507854 20150215155707
+23.102.5.211 4 4 194748 20150213085752
+92.36.99.222 17 41 1230700 20150209063915
+80.83.237.78 2 7 227157 20150211144722
+83.149.34.223 1 1 70428 20150219175945
+37.229.32.94 12 43 1511100 20150211105525
+83.149.35.40 2 4 131512 20150202044346
+167.114.162.105 1 1 48687 20150223141957
+176.15.177.5 3 27 858040 20150211190745
+176.109.225.48 1 1 48687 20150228151954
+95.220.166.189 1 26 1002955 20150223235316
+91.121.163.214 1 1 48687 20150215011305
+95.84.136.44 1 1 48687 20150211000346
+93.115.84.202 1 1 48687 20150220113635
+217.69.132.223 4 17 811270 20150211105755
+31.181.48.54 1 1 48687 20150211165413
+83.149.37.33 3 3 125947 20150208125821
+54.81.13.26 1 1 48687 20150201155521
+46.53.194.229 1 1 465 20150204212039
+2.92.140.73 1 26 1002955 20150201080017
+199.30.25.24 0 6 336425 
+176.15.32.104 1 26 1002955 20150219131156
+46.235.65.52 1 1 48687 20150219212449
+188.64.170.190 2 2 97374 20150228110146
+178.93.22.6 13 65 2480011 20150202205753
+217.118.95.89 4 28 1137928 20150205185613
+117.6.129.32 1 1 48687 20150214020056
+85.10.193.230 1 1 48687 20150211191033
+85.236.9.30 4 28 1137928 20150211093301
+220.137.126.161 1 1 48687 20150206045405
+176.9.139.227 4 28 1313664 20150220011314
+46.17.44.89 1 1 48687 20150209231722
+94.29.45.248 4 28 1137928 20150212072532
+62.210.37.113 1 1 48687 20150222030717
+54.88.110.59 2 2 97374 20150220215425
+62.109.3.115 9 9 455054 20150208212012
+109.184.56.240 4 28 1137928 20150224134846
+83.149.37.152 1 1 70428 20150202170739
+217.73.208.27 2 2 97374 20150214084929
+95.24.233.155 1 26 1002955 20150213223224
+93.79.224.5 4 28 1137928 20150204184135
+109.63.137.72 1 1 465 20150205005126
+80.179.19.105 8 32 1332676 20150204135137
+31.28.5.183 12 42 1322537 20150211113008
+92.36.77.24 1 14 215565 20150210220148
+2.93.24.191 1 26 1002955 20150220063415
+83.149.35.49 1 1 70428 20150207182323
+83.149.37.221 5 9 3507265 20150207163636
+83.149.35.38 1 1 48687 20150214175203
+213.87.139.27 4 28 1137928 20150211094002
+185.26.182.35 6 37 1283239 20150225101033
+85.90.193.224 2 2 97374 20150203002338
+144.76.114.81 1 1 48687 20150209025325
+83.149.37.113 4 23 180039 20150205155639
+178.62.247.171 1 1 48687 20150220114206
+95.67.101.230 4 28 1137928 20150211103301
+213.154.216.192 17 48 1404409 20150211112114
+37.214.237.218 7 10 297986 20150201093836
+212.85.69.206 7 7 340809 20150213015217
+5.164.199.207 10 41 1447004 20150211102811
+213.136.64.63 1 1 48687 20150212020312
+207.46.13.123 1 1 48687 20150220065944
+199.30.25.226 3 7 482615 20150220062140
+217.12.201.60 1 1 48687 20150228112447
+95.57.115.32 1 1 48687 20150225114602
+31.193.196.98 1 1 48687 20150212150747
+88.198.140.4 6 6 292122 20150226214945
+95.24.37.120 1 26 1002955 20150203014740
+37.9.53.253 4 4 194748 20150210022613
+176.195.168.72 1 1 465 20150205090307
+107.167.110.60 1 1 48687 20150215234333
+66.249.83.239 3 10 562619 20150204174649
+14.222.57.123 2 2 97374 20150212214132
+31.181.66.202 1 1 48687 20150210125845
+31.13.144.41 15 90 3516504 20150216130623
+176.9.50.43 1 1 48687 20150226032447
+5.141.199.231 1 1 48687 20150206013405
+93.44.180.155 1 1 465 20150205093604
+46.229.170.197 1 1 48687 20150215065121
+212.129.10.181 1 1 48687 20150214041102
+91.203.194.215 2 2 97374 20150217232557
+83.149.35.65 1 1 54092 20150211152938
+83.149.35.180 2 2 124520 20150206151301
+92.49.157.224 7 34 1241530 20150227171458
+95.79.54.88 19 50 1509512 20150211135604
+95.85.51.166 3 3 146061 20150214165000
+93.91.173.220 3 3 146061 20150228182742
+108.61.210.87 2 2 97374 20150218175049
+178.215.107.12 4 28 1137928 20150209213102
+176.9.207.94 2 2 97374 20150228145906
+5.165.22.185 4 27 724316 20150221091307
+5.251.76.196 4 28 1137928 20150207030830
+62.176.4.87 17 44 1299815 20150217072652
+31.184.193.19 2 2 97374 20150221202116
+188.42.240.11 1 1 48687 20150224183846
+195.238.181.159 1 1 48687 20150219161403
+109.234.156.66 20 20 973740 20150228204741
+87.240.182.136 1 1 48687 20150211073005
+85.13.141.3 2 2 48687 20150208234020
+176.194.60.0 1 26 1002955 20150218170017
+176.196.66.139 9 42 1438298 20150220125440
+47.67.46.41 4 28 1137928 20150204133857
+50.93.249.212 7 31 1459725 20150215224859
+81.88.222.115 2 32 1219695 20150226103746
+2.94.223.83 1 26 1002955 20150226103736
+37.57.231.240 4 4 194748 20150220235226
+5.175.196.47 1 1 48687 20150220083319
+37.229.197.76 2 2 97374 20150223030451
+83.149.35.1 7 20 300336 20150225175601
+5.228.43.240 1 1 465 20150205005126
+5.228.19.171 1 26 1002955 20150203031402
+203.84.162.197 1 1 48687 20150207140340
+188.168.38.168 0 5 279028 
+176.9.50.42 2 2 97374 20150208213802
+46.188.21.140 1 20 524646 20150220063416
+66.249.83.233 1 7 353476 20150204154734
+88.113.38.165 1 1 48687 20150221154442
+104.236.225.20 2 2 97374 20150207125713
+109.94.205.110 12 39 1799229 20150210195210
+178.140.127.175 2 15 507854 20150226105156
+176.215.35.24 4 27 724316 20150226065418
+46.188.48.246 1 26 1002955 20150220072817
+46.17.44.189 1 1 48687 20150219064049
+141.8.189.210 4 23 858900 20150211093039
+93.100.131.49 1 1 48687 20150210044221
+119.147.146.193 2 3 110031 20150218033821
+95.128.229.106 4 28 1137928 20150211094324
+212.179.77.106 1 1 48687 20150207111856
+46.229.168.50 7 31 1283989 20150224085058
+188.116.54.12 2 2 48687 20150209150143
+46.73.178.114 1 26 1002955 20150203031401
+199.30.24.37 3 27 1264977 20150218152006
+83.149.35.132 1 1 70428 20150227175245
+54.93.118.240 3 3 146061 20150220181952
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 28
+20150201 20670 21669 18319292 11
+20150202 3799 3865 3558661 10
+20150203 24 173 5624690 11
+20150204 4304 4474 7772195 12
+20150205 28 154 3652474 15
+20150206 19 116 1819402 11
+20150207 28 75 6114706 13
+20150208 35 93 2833732 9
+20150209 51 258 6326194 17
+20150210 57 173 5379027 16
+20150211 661 1523 28770687 36
+20150212 358 414 3360793 17
+20150213 32 71 2445468 12
+20150214 14 50 1621666 10
+20150215 22 89 3567215 11
+20150216 13 71 2547864 6
+20150217 22 49 1543250 5
+20150218 23 116 4149431 12
+20150219 10 60 2417147 10
+20150220 41 206 8117638 18
+20150221 10 33 1016438 6
+20150222 6 16 319268 5
+20150223 7 32 1295077 6
+20150224 13 61 2519291 4
+20150225 20 88 3043300 7
+20150226 90 202 7788057 12
+20150227 15 64 1768969 6
+20150228 10 15 508611 7
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 10
+30s-2mn 18
+2mn-5mn 8
+15mn-30mn 10
+0s-30s 263
+30mn-1h 3
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 91
+/items/stateuser.html 28048 336576 2 8
+/items/getnumbworlds 980 18430 0 0
+/ 530 27385784 300 225
+/css/com_arenda_icons.woff 89 875800 0 3
+/css/daxlinepro-black.woff 89 4843696 1 9
+/css/nautilus.woff 46 1537500 1 19
+/items/setparam 32 7043 0 0
+/items/addnew.html 32 2259616 3 0
+/images/upload/resize/1e0404543611def57b579676fc62ee1c_1422776052_93.frb 31 48184 0 5
+/items/selectstreet/name_city/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3.html 31 14536 0 0
+/items/selectstreet/name_city/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.html 15 45655 0 0
+/users/confirm 1 47524 0 0
+/items/selectrayon/name_city/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.html 11 1015 0 0
+/items/preroom 11 11 0 0
+/site/login.html 17 8248 0 0
+/admin/publitem 14 336 0 0
+// 1 48687 1 1
+/admin/list/id/8/trans/1.html 2 88153 0 0
+/items/searchfield 4 70696 0 3
+/prodaja/kottedji-19.html 1 46607 0 1
+/images/upload/resize/4a3782a3df1488e5ed0fbf80974ba077_1422776071_117.frb 4 10568 0 0
+/arenda/sdam-proizvodstvennoe-pomeschenie-51.html 1 40308 0 1
+/css/com_arenda_icons.eot 8 67456 0 7
+/users/profileitemlist/id/8.html 1 47972 0 0
+/spros/indexviewspros.html 4 9310 0 1
+/arenda/torgovaya-ploschad-3.html 1 51948 0 0
+/prodaja/proizvodstvennoe-pomeschenie-14.html 2 92106 0 0
+/arenda/proizvodstvennoe-pomeschenie-4.html 1 56036 0 1
+/arenda/sdam-ofis-68.html 2 82516 0 1
+/admin/pauseitem 7 287 0 0
+/admin/list/id/7/trans/1.html 10 876812 0 0
+/images/upload/resize/8fb471cd34f6caecab77c17f56ff842d_1422776300_117.frb 4 10568 0 1
+/images/upload/dfef3d70eead8843cfdddd4b5a82db05_1422776135.frb 4 58076 0 1
+/arenda/sdam-ofisnoe-pomeschenie-58.html 1 41531 0 0
+/css/com_arenda_icons.ttf 8 65856 4 0
+/users/profile.html 9 348201 0 0
+/items/getonestepfields 11 38014 0 0
+/images/upload/8fb471cd34f6caecab77c17f56ff842d_1422776300.frb 4 58076 0 0
+/spros/ofisnoe-pomeschenie-21.html 1 51862 0 0
+/spros/kottedji-40.html 2 103950 0 0
+/arenda/komnati-7.html 5 248533 0 0
+/images/upload/38cee24eda14fedae3b97591e549e11a_1422776092.frb 4 58076 0 0
+/items/selectrayon/name_city/%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B1%D1%83%D1%80%D0%B3.html 19 2393 0 0
+/arenda/otlichnaya-kvartira-posle-evro-remonta-.-80.html 8 336486 1 1
+/css/nautilus.ttf 8 813344 0 4
+/admin/ 8 303244 0 0
+/images/upload/resize/dfef3d70eead8843cfdddd4b5a82db05_1422776135_117.frb 4 10568 0 0
+/spros/taunhausi-41.html 2 103950 0 1
+/images/upload/resize/1e0404543611def57b579676fc62ee1c_1422776052_117.frb 4 13400 0 0
+/images/upload/resize/38cee24eda14fedae3b97591e549e11a_1422776092_117.frb 4 10568 0 0
+/users/settings.html 1 43867 1 0
+/arenda/sdaetsya-komnata-55.html 1 41808 0 1
+/items/withoutreg.html 18 76932 0 0
+/arenda/kvartiri-6.html 14 877026 0 1
+/site/enteruserview.html 10 580 0 0
+/images/upload/1e0404543611def57b579676fc62ee1c_1422776052.frb 5 86895 0 0
+/site/searchcity 7 4177 0 0
+/auth/vk 1 61 0 0
+/items/viewloginuser.html 2 12026 0 0
+/spros/kvartiri-37.html 2 103950 0 0
+/arenda/ofisnoe-pomeschenie-1.html 5 260709 0 2
+/site/registration.html 6 137 0 0
+/arenda/arenda-1-komnatnoj-kvartiry-76.html 1 40417 0 1
+/items/getfunc 9 3385 0 0
+/css/daxlinepro-black.eot 1 202162 0 0
+/images/upload/resize/1e0404543611def57b579676fc62ee1c_1422776052_186.frb 8 49168 0 2
+/site/about.html 5 243483 0 1
+/css/nautilus.eot 1 101878 0 0
+/css/daxlinepro-black.ttf 10 2019480 0 4
+/images/upload/8ec5d2670fe5f13db2a44018ef986ac2_1422781039.frb 1 497412 0 0
+/items/viewsearchlist 2 10328 0 1
+/site/login 23 128202 0 2
+/site/people.html 4 187207 0 1
+/items/upload.html 22 1986 0 0
+/spros/komnati-38.html 3 155925 1 1
+/site/registration 9 61866 0 2
+/images/upload/4a3782a3df1488e5ed0fbf80974ba077_1422776071.frb 4 58076 0 0
+/prodaja/kvartiri-16.html 2 93230 0 0
+/prodaja/komnati-17.html 2 92032 0 0
+/items/getthreestepfields 11 24037 0 0
+/users/profileitemlist/id/33.html 1 48321 0 0
+/items/saveaddnew 26 842 0 0
+/users/profileitemlist/id/32.html 1 54069 0 1
+/users/profileedit.html 1 41131 0 0
+/arenda/kottedji-9.html 2 96486 0 0
+/site/selectcity 16 3764 0 0
+/admin/list/id/7/trans/1e0404543611def57b579676fc62ee1c_1422776052.frb 3 128049 0 1
+/arenda/opishite-vashu-nedvizhimost-s-vygodnoj-storony...-50.html 1 40938 0 0
+/admin/list/id/1/trans/1.html 3 173703 0 0
+/arenda/sdayutsya-ofisnye-pomescheniya-na-dlitelnyj-srok-45.html 1 42206 0 1
+/users/profileitemlist/id/6.html 1 45174 0 0
+END_SIDER

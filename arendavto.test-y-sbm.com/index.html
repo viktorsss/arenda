@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>arendavto</title>
+<link rel="stylesheet" type="text/css" href="style/style.css" />
+<link rel="stylesheet" type="text/css" href="style/lightbox.css" />
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="js/lightbox.js"></script>
+
+<!--[if gte IE 9]>
+      <style type="text/css">
+        .gradient {
+           filter: none !important;
+        }
+      </style>
+    <![endif]-->
+</head>
+<body>
+<div class="main">
+  <div class="header"> <a href="#/home" class="logo"></a>
+    <div class="text1"> <span class="font_slogan">YOURCAR</span><br>
+      <span class="font_slogan_sub">выбор лучших</span> </div>
+    <div class="text2 font1"> Прокат автомобилей
+      в Миинске </div>
+    <div class="text3"> <span class="font2">c 9:00 до 21:00</span><br>
+      <span class="font3">часы работы</span> </div>
+    <div class="text4"> <a class="mailto" href="mailto:info@yourcar.by">info@yourcar.by</a> <br>
+      <span class="font3">эл.почта</span> </div>
+    <a href="tel:+74957177087" class="text5 font4">+7 (495) 717-70-87</a> <a href="#/language?language=ru" class="fl fl1"><i class="fl_i fl_active"></i></a> <a href="#/language?language=en" class="fl fl2"><i class="fl_i"></i></a> <a href="#/language?language=br" class="fl fl3"><i class="fl_i"></i></a>
+    <div class="menu gradient"> <a href="#/about_us" class="menu_item font_menu menu_item_1 gradient"><span>О компании</span></a>
+      <div class="menu_separator menu_separator_l_1"></div>
+      <a href="#/results" class="menu_item font_menu menu_item_2  gradient"><span>Выбор авто</span></a>
+      <div class="menu_separator menu_separator_l_2"></div>
+      <a href="#/services" class="menu_item font_menu menu_item_3 gradient"><span>Услуги</span></a>
+      <div class="menu_separator menu_separator_l_3"></div>
+      <a href="#/tariffs" class="menu_item font_menu menu_item_4 gradient"><span>Тарифы</span></a>
+      <div class="menu_separator menu_separator_l_4"></div>
+      <a href="#/news" class="menu_item font_menu menu_item_5 gradient"><span>Новости</span></a>
+      <div class="menu_separator menu_separator_l_5"></div>
+      <a href="#/question" class="menu_item font_menu menu_item_6 gradient"><span>Вопрос-ответ</span></a>
+      <div class="menu_separator menu_separator_l_6"></div>
+      <a href="#/reviews" class="menu_item font_menu menu_item_7 gradient"><span>Отзывы</span></a>
+      <div class="menu_separator menu_separator_l_7"></div>
+      <a href="#/contact" class="menu_item font_menu menu_item_8 gradient"><span>Контакты</span></a> </div>
+  </div>
+  <div class="content">
+    <div class="font5 flt_l js_path_name">Главная</div>
+    <div class="font6 flt_r login_js"><a class="a_exit" href="#/login">Вход</a> / <a class="a_exit" href="#/registration">Регистрация</a></div>
+    <div class="font6 flt_r log_out_js"><a class="a_user" href="#/personal_area_favorites">user1121</a> <a class="a_exit font6" href="#/log_out">Выход</a></div>
+    <div class="currency_converter_bk">
+      <div class="currency_converter_sub_bk">
+        <div class="currency_converter_input_bk">
+          <input name="" type="text">
+        </div>
+        <div class="div_select1_hidden">
+          <select class="select1" name="">
+            <option value="Bobruisk">RUB</option>
+            <option value="Vitebsk">USD</option>
+            <option value="Gomel">EUR</option>
+            <option value="Minsk">GBP</option>
+            <option value="Mogilev">PLN</option>
+            <option value="Mozir">UAH</option>
+          </select>
+        </div>
+        <div class="c_b"></div>
+      </div>
+      <div class="converter_arrow">></div>
+      <div class="currency_converter_sub_bk">
+        <div class="currency_converter_input_bk">
+          <input name="" type="text" value="">
+        </div>
+        <div class="div_select1_hidden">
+          <select class="select1" name="">
+            <option value="Bobruisk">RUB</option>
+            <option selected value="Vitebsk">USD</option>
+            <option value="Gomel">EUR</option>
+            <option value="Minsk">GBP</option>
+            <option value="Mogilev">PLN</option>
+            <option value="Mozir">UAH</option>
+          </select>
+        </div>
+        <div class="c_b"></div>
+      </div>
+    </div>
+    <div class="c_b"></div>
+    <div>
+      <div class="filter_box_ajax"></div>
+      <div class="home_box_ajax"></div>
+      <div class="news_box_ajax"></div>
+      <div class="about_us_box_ajax"></div>
+      <div class="auto_box_ajax"></div>
+      <div class="rent_box_ajax"></div>
+      <div class="contact_box_ajax"></div>
+      <div class="news_details_box_ajax"></div>
+      <div class="personal_area_favorites_box_ajax"></div>
+      <div class="personal_area_history_box_ajax"></div>
+      <div class="personal_area_orders_box_ajax"></div>
+      <div class="personal_area_settings_box_ajax"></div>
+      <div class="question_box_ajax"></div>
+      <div class="results_box_ajax"></div>
+      <div class="reviews_box_ajax"></div>
+      <div class="services_box_ajax"></div>
+      <div class="stock_box_ajax"></div>
+      <div class="c_b"></div>
+    </div>
+  </div>
+  <div class="footer">
+    <div class="footer_line gradient"></div>
+    <div class="bk_footer_other1"> <a href="#">О компании</a> <br>
+      <a href="#">Акции и скидки</a><br>
+      <a href="#">Вопрос-ответ</a><br>
+      <a href="#">Контакты</a></div>
+    <div class="bk_footer_other2"><a href="#">Наши автомобили</a><br>
+      <a href="#">Услуги</a><br>
+      <a href="#">Новости</a><br>
+      <a href="#">Статьи</a></div>
+    <div class="bk_footer_other3"> <a href="#">Как сделать заказ?</a><br>
+      <a href="#">Условия сотрудничества</a><br>
+      <a href="#">Договор на аренду автомобиля</a></div>
+    <div class="font9 payment"> Мы принимаем к оплате <br>
+      <img src="images/common/mastercard.gif" width="49" height="29" alt="mastercard">&nbsp;&nbsp;<img src="images/common/visa.gif" width="49" height="29" alt="visa">&nbsp;&nbsp;<img src="images/common/paypal.gif" width="49" height="29" alt="paypal"></div>
+    <div class="font9 bk_footer_contact"> <a href="tel:+74957177087" class="font10">+7 (495) 717-70-87</a><br>
+      07140, Москва<br>
+      Красносельский  пер. ,  дом 3 </div>
+    <div class="c_b"></div>
+  </div>
+</div>
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+</html>

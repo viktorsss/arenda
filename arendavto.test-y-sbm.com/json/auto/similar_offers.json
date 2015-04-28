@@ -1,0 +1,57 @@
+[{
+		"bigImgUrl" : "images/auto_page/similar/big/1.jpg",
+		"bigImgAlt" : "Chevrolet Cruze",
+		"smallImgUrl" : "images/auto_page/similar/small/1.jpg",
+		"smallImgAlt" : "smallImgAlt1",
+		"name" : "Chevrolet Cruze",
+		"class" : "Эконом",
+		"bodyType" : "Седан",
+		"numberOfSeats" : "4-1",
+		"cost" : "от 1.200 руб",
+		"hrefUrl" : "#/auto?id=1"
+	}, {
+		"bigImgUrl" : "images/auto_page/similar/big/2.jpg",
+		"bigImgAlt" : "Chevrolet Cruze 2",
+		"smallImgUrl" : "images/auto_page/similar/small/2.jpg",
+		"smallImgAlt" : "smallImgAlt2",
+		"name" : "Chevrolet Cruze 2",
+		"class" : "Эконом2",
+		"bodyType" : "Седан2",
+		"numberOfSeats" : "4-2",
+		"cost" : "от 2.200 руб",
+		"hrefUrl" : "#/auto?id=2"
+	}, {
+		"bigImgUrl" : "images/auto_page/similar/big/3.jpg",
+		"bigImgAlt" : "Chevrolet Cruze 3",
+		"smallImgUrl" : "images/auto_page/similar/small/3.jpg",
+		"smallImgAlt" : "smallImgAlt3",
+		"name" : "Chevrolet Cruze 3",
+		"class" : "Эконом3",
+		"bodyType" : "Седан3",
+		"numberOfSeats" : "4-3",
+		"cost" : "от 3.200 руб",
+		"hrefUrl" : "#/auto?id=3"
+	}, {
+		"bigImgUrl" : "images/auto_page/similar/big/4.jpg",
+		"bigImgAlt" : "Chevrolet Cruze 4",
+		"smallImgUrl" : "images/auto_page/similar/small/4.jpg",
+		"smallImgAlt" : "smallImgAlt4",
+		"name" : "Chevrolet Cruze 4",
+		"class" : "Эконом4",
+		"bodyType" : "Седан4",
+		"numberOfSeats" : "4-4",
+		"cost" : "от 4.200 руб",
+		"hrefUrl" : "#/auto?id=4"
+	}, {
+		"bigImgUrl" : "images/auto_page/similar/big/5.jpg",
+		"bigImgAlt" : "Chevrolet Cruze 5",
+		"smallImgUrl" : "images/auto_page/similar/small/5.jpg",
+		"smallImgAlt" : "smallImgAlt5",
+		"name" : "Chevrolet Cruze 5",
+		"class" : "Эконом5",
+		"bodyType" : "Седан5",
+		"numberOfSeats" : "4-5",
+		"cost" : "от 5.200 руб",
+		"hrefUrl" : "#/auto?id=5"
+	}
+]

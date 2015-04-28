@@ -1,0 +1,487 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201409 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.arenda2.test-y-sbm.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2002                
+POS_TIME 2676                
+POS_VISITOR 8799                
+POS_DAY 10673               
+POS_DOMAIN 3656                
+POS_LOGIN 3894                
+POS_ROBOT 4049                
+POS_WORMS 4217                
+POS_EMAILSENDER 4348                
+POS_EMAILRECEIVER 4491                
+POS_SESSION 11612               
+POS_SIDER 11823               
+POS_FILETYPES 4626                
+POS_DOWNLOADS 4953                
+POS_OS 5001                
+POS_BROWSER 5091                
+POS_SCREENSIZE 5388                
+POS_UNKNOWNREFERER 5462                
+POS_UNKNOWNREFERERBROWSER 5549                
+POS_ORIGIN 5631                
+POS_SEREFERRALS 5777                
+POS_PAGEREFS 5921                
+POS_SEARCHWORDS 6069                
+POS_KEYWORDS 6221                
+POS_MISC 2338                
+POS_ERRORS 6280                
+POS_CLUSTER 3750                
+POS_SIDER_404 6428                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20141001050703 1 0 11183128061627
+FirstTime 20140901044654
+LastTime 20140930184042
+LastUpdate 20141001060102 1 0 0 0 0
+TotalVisits 244                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 507 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 12 45 517968 2 6 102464
+1 24 43 554041 3 12 365281
+2 57 244 1235071 15 25 636678
+3 18 146 5623472 0 14 524269
+4 103 256 6327824 5 55 1564592
+5 1296 2041 19401599 20 131 3886518
+6 3621 4482 17850136 40 105 1660447
+7 10890 12224 27279383 41 225 7372664
+8 17113 17623 19598464 44 135 2245548
+9 17512 18024 13110122 32 123 2631270
+10 16483 16886 14415103 164 291 4814447
+11 15851 16212 17381671 519 594 2952288
+12 17335 18551 24488662 25 156 4805918
+13 13874 14789 21186753 28 88 2257985
+14 13140 13416 10562293 8 57 1399067
+15 12166 12506 13194857 13 93 2895149
+16 11044 11297 4857374 19 70 1877414
+17 11891 12304 17592779 40 111 2056840
+18 10146 10722 7976057 12 121 4733694
+19 10516 11221 19113496 22 187 6528050
+20 5902 7084 12462772 31 90 2961440
+21 2364 3366 10012753 33 69 1491961
+22 2590 3585 8057673 33 93 2702983
+23 909 1171 2741402 7 20 768463
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 194857 208238 295541725
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+favicon 23 1269608 20140930235235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+css 1699 9301870 0 0
+png 1423 819720 0 0
+01 2 454362 0 0
+woff 1116 7065332 0 0
+07 52 8257086 0 0
+59 57 1318041 0 0
+html 192090 150828067 0 0
+js 5495 20719505 0 0
+jpg 4209 63742430 0 0
+Unknown 1500 5016173 0 0
+10 1 80674 0 0
+gif 555 293354 0 0
+54 39 27645111 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 4
+macosx 1368
+winvista 18330
+linux 113026
+win7 75514
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+chrome37.0.2062.124 16250
+safari7.0 1025
+firefox32.0 241
+chrome36.0.1985.143 8027
+mozilla 2
+chrome35.0.1916.153 22
+chrome37.0.2062.120 105979
+safari8.0 187
+chrome37.0.2062.122 312
+chrome37.0.2062.103 2409
+chrome37.0.2062.94 73630
+safari5.0.2 154
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 1154 1154
+From1 0 0
+From2 0 0
+From3 0 0
+From4 193703 207084
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+403 9 159067
+302 207 0
+400 425 21496811
+500 877 2281393
+404 276 14008863
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 33
+/admin/field.html 2 http://arenda2.test-y-sbm.com/admin/index.html
+/users/confirm 1 -
+/apple-touch-icon.png 27 -
+/arenda/sdaetsya-2h-kom-kva-ra.html 4 http://arenda2.test-y-sbm.com/arenda/kvartiri-18.html
+/users/%D1%88%D1%82%D0%B2%D1%83%D1%87 1 -
+/items/searchfield 2 -
+/arenda.html 3 -
+/users/images/functions-3.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/users/images/object-1.jpg 49 http://arenda2.test-y-sbm.com/users/sproslist
+/spros/kvartiri.html 2 -
+/spros/viewspros.html&funcid%20=%208 1 http://arenda2.test-y-sbm.com/users/sproslist.html
+/spros/string(25) 4 http://arenda2.test-y-sbm.com/spros/kvartiri.html
+/site/images/hot-advert-img.jpg 8 http://arenda2.test-y-sbm.com/site/people
+/string(21) 1 http://arenda2.test-y-sbm.com/
+/spros/viewspros.html 1 http://arenda2.test-y-sbm.com/users/sproslist.html
+/site/images/advert-1.jpg 8 http://arenda2.test-y-sbm.com/site/people
+/users/images/functions-2.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/users/images/img-text.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/items/images/counter-3.jpg 2 http://arenda2.test-y-sbm.com/items/searchfield
+/apple-touch-icon-precomposed.png 12 -
+/items/stateuser.html 1 http://arenda2.test-y-sbm.com/items/addnew.html
+/users/images/functions-4.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/users/images/avatar-1.jpg 16 http://arenda2.test-y-sbm.com/users/sproslist
+/apple-touch-icon-76x76.png 4 -
+/apple-touch-icon-76x76-precomposed.png 4 -
+/admin/delfield 2 http://arenda2.test-y-sbm.com/admin/fields/catid/5.html
+/users/images/functions-1.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/items/images/counter-1.jpg 2 http://arenda2.test-y-sbm.com/items/searchfield
+/site/images/avatar-1.jpg 3 http://arenda2.test-y-sbm.com/site/people
+/spros/kvartiri 2 http://arenda2.test-y-sbm.com/
+/items/images/counter-2.jpg 2 http://arenda2.test-y-sbm.com/items/searchfield
+/users/images/functions-5.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+/users/images/functions-6.jpg 16 http://arenda2.test-y-sbm.com/users/index.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+87.224.248.148 72089 74057 147469373 20140930184042
+213.227.252.208 59642 64496 42787525 20140930143936
+95.133.119.128 17906 18251 15630723 20140926223530
+91.231.45.108 17764 18168 19002998 20140929121527
+95.133.13.160 11723 12550 5832282 20140914210705
+95.133.112.114 4922 5110 5091586 20140927180358
+95.133.99.161 2130 2435 6544433 20140915201218
+212.220.56.73 2059 2212 6235402 20140909083052
+95.133.67.99 1954 2159 1609743 20140924221616
+95.133.3.68 1158 1231 689089 20140914214519
+95.133.31.123 229 267 2064993 20140903195218
+176.8.255.231 71 179 2170854 20140913150206
+95.133.81.83 87 302 1822535 20140908220620
+95.133.12.51 92 569 3881911 20140910200624
+83.149.37.36 2 20 543007 20140910042320
+93.79.134.160 17 22 573046 20140913213729
+95.133.185.164 57 84 1759489 20140908153119
+49.49.121.171 7 34 1230292 20140912194753
+95.133.165.154 85 328 2297442 20140906231821
+95.133.141.45 150 854 5194271 20140907231211
+83.149.37.194 36 73 1855869 20140907182657
+193.109.129.2 2 6 128858 20140911142017
+14.96.20.164 4 28 1117170 20140922174253
+95.133.40.21 1038 1275 1522910 20140911190909
+95.133.37.160 5 30 1174860 20140929212816
+95.133.102.137 12 88 213761 20140912210638
+178.93.102.173 30 104 933998 20140920020225
+87.224.155.167 7 48 2015063 20140918104914
+77.52.157.15 1 2 68152 20140915075624
+83.149.35.186 5 10 568764 20140910045730
+95.133.78.58 133 315 1055971 20140909200208
+95.133.22.55 91 526 2403993 20140912205745
+83.149.35.170 3 35 166037 20140914051713
+95.133.97.87 20 91 794739 20140902200213
+83.149.37.131 5 18 864187 20140908115539
+93.79.136.62 1 3 63629 20140906081212
+95.133.6.66 1127 1641 3067725 20140912232644
+77.52.157.253 18 18 295 20140913145542
+95.133.141.168 146 533 3438259 20140905200855
+95.133.106.60 3 9 130252 20140916155006
+176.215.34.73 26 57 1526239 20140919063638
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20140901 68 197 3533791 8
+20140902 5833 6219 7744241 9
+20140903 15218 15769 12904813 7
+20140904 2803 2878 4980468 5
+20140905 25900 27291 20433400 8
+20140906 113 402 5875522 7
+20140907 219 1022 11246646 7
+20140908 4568 5502 20638324 11
+20140909 1990 3125 13769451 10
+20140910 1776 3217 15093953 10
+20140911 202 513 9154172 12
+20140912 7233 8775 14046391 14
+20140913 1048 1285 8092846 14
+20140914 19747 20658 8434676 10
+20140915 10483 11360 15681407 8
+20140916 17370 17446 5186358 7
+20140917 4094 4223 7673130 7
+20140918 18259 18374 6442921 3
+20140919 65 172 6624606 8
+20140920 3784 3922 4334654 5
+20140921 25 25 1316350 8
+20140922 123 276 7276158 9
+20140923 483 559 4947280 5
+20140924 2010 2307 7378364 5
+20140925 174 392 7940985 8
+20140926 18019 18452 26608516 9
+20140927 5770 6108 17510953 8
+20140928 25 70 5764838 4
+20140929 15363 15562 13490964 12
+20140930 12092 12137 1415547 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 93
+5mn-15mn 20
+0s-30s 55
+2mn-5mn 8
+15mn-30mn 20
+30s-2mn 12
+30mn-1h 36
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 123
+/items/stateuser.html 188960 2267520 7 34
+/ 1359 79247232 202 137
+/css/com_arenda_icons.woff 538 921100 0 1
+/css/daxlinepro-black.woff 537 5094232 0 18
+/items/searchfield 477 1200883 0 3
+/spros/viewspros.html 219 930862 0 7
+/items/setparam 194 27350 0 0
+/items/addnew.html 165 11111783 5 1
+/users/sproslist.html 155 7748081 4 5
+/items/list/7.html 137 7353856 6 2
+/items/details/3.html 10 453092 0 1
+/arenda/tipa-opisanie-1.html 2 91764 1 0
+/arenda/zagolovok-reklamnogo-teksta--68.html 5 240750 1 0
+/items/selectstreet/name_city/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.html 2 30918 0 0
+/users/confirm 3 153879 0 0
+/arenda/pvapva-4.html 6 276574 0 1
+/spros/index/7.html 56 3213481 2 1
+/items/selectrayon/name_city/%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.html 2 928 0 0
+/items/preroom 120 120 0 0
+/users/profileitemlist/id/2.html 1 79656 0 0
+/admin/fields.html 101 5609472 2 2
+/gii/default/login.html 2 4460 0 0
+/site/login.html 52 82523 4 3
+/gii/crud/ 3 23203 0 0
+/users/deleteuserphoto 2 0 0 0
+/items/savesearchlist 25 420 0 0
+/items/details/4.html 4 182325 0 0
+/admin/fields/catid/9.html 7 543186 0 0
+/arenda/opishite-vashu-nedvizhimost-s-vygodnoj-storony...-55.html 1 44708 0 0
+/arenda/yvapro-3.html 1 46194 0 0
+/arenda/opishite-vashu-nedvizhimost-s-vygodnoj-storony...-58.html 1 44707 0 0
+/images/upload/fd05e2242a21fe3ef73a4f4e40cb893e_1411762307.59 27 321713 0 1
+/items/details/2.html 7 322829 1 2
+/items/details/1.html 19 868089 1 1
+/items/details/13.html 1 44959 0 0
+/spros/indexviewspros.html 44 362252 0 0
+/spros/index/8.html 8 454742 1 2
+/spros/index/1.html 12 684552 0 0
+/images/upload/d302cbc7911c5c9f978d6f4b9d253709_1411761317.01 2 454362 0 0
+/site/people 13 677440 0 0
+/prodaja/komnati-29.html 2 133460 0 0
+/admin/fields/catid/10.html 10 672651 0 0
+/items/list/8.html 10 621584 0 1
+/items/details/20.html 3 140346 0 0
+/users/profile.html 90 3858267 0 1
+/images/upload/e0019856d2703d41e8887ecce5b714e2_1411761324.59 2 543370 0 0
+/users/sproslist 2 119609 0 0
+/admin/delfield 28 0 0 0
+/admin/fields/catid/6.html 1 44770 0 0
+/prodaja/kvartiri-28.html 2 96833 0 0
+/items/list/1.html 46 2793728 1 1
+/items/getonestepfields 120 291114 0 0
+/items/details/6.html 1 45028 0 0
+/items/selectstreet.html 16 51942 0 0
+/users/profileitemlist 2 91632 1 0
+/spros/ofisnoe-pomeschenie.html 9 517808 0 0
+/items/details/17.html 3 134823 0 0
+/admin/fields 26 1182486 0 0
+/items/details/23.html 6 275041 0 1
+/arenda/skladskoe-pomeschenie-14.html 1 44975 0 0
+/gii/model/ 3 31104 0 0
+/admin/ 22 922535 0 0
+/users/profileitemlist/id/4.html 1 71864 0 0
+/spros/komnati-39.html 1 57591 0 0
+/spros/kvartiri-38.html 6 336900 0 0
+/css/nautilus.woff 41 1050000 0 3
+/items/details/14.html 2 89480 0 0
+/users/settings.html 10 442400 0 0
+/arenda/kvartiri-18.html 49 3006393 0 2
+/items/selectrayon.html 17 5547 0 0
+/spros/kvartiri.html 4 224560 0 0
+/users/ 16 984033 0 0
+/arenda/zagolovok-reklamnogo-teksta-71.html 1 48346 0 0
+/site/searchcity 17 18541 0 0
+/site/enteruserview.html 29 19752 0 0
+/auth/vk 6 366 0 0
+/arenda/kvartiri.html 3 178542 0 0
+/items/viewloginuser.html 97 383399 0 0
+/prodaja/-kvartira-s-mebelyu-i-tehnikoj.-svobodnaya-k-zaseleniyu.--63.html 2 92802 0 1
+/arenda/opishite-vashu-nedvizhimost-s-vygodnoj-storony...-54.html 2 90158 0 0
+/spros/komnati.html 1 57428 0 0
+/items/details/24.html 8 368620 0 0
+/images/upload/7b2c704c83fe8daa9b1ca22fb9ba8df8_1411762312.59 1 131245 0 0
+/site/registration.html 1 137 0 0
+/items/getfunc 44 16109 0 0
+/gii/default/ 2 4974 0 0
+/items/getnumbworlds 111 2602 0 0
+/items/details/12.html 2 90000 1 0
+/admin/fields/catid/3.html 5 265092 0 0
+/admin/fields/catid/5.html 17 1117894 0 0
+/images/upload/e5c9fb8a6f7b6c496d172b5d18e410ac_1411761308.59 27 321713 0 0
+/users/myobjects.html 18 1016791 1 1
+/items/viewsearchlist 38 476807 0 0
+/arenda/ofisnoe-pomeschenie-13.html 11 661021 0 1
+/site/login 73 406902 2 1
+/site/people.html 23 1144240 1 2
+/items/upload.html 20 1792 0 0
+/items/details/22.html 5 231759 0 0
+/site/registration 36 247464 0 0
+/items/getthreestepfields 120 96702 0 0
+/admin/fields/catid/7.html 8 652591 0 1
+/items/saveaddnew 17 545 0 0
+/users/profileedit.html 20 668198 0 1
+/items/details/5.html 4 179754 0 0
+/admin/fields/catid/8.html 9 762989 0 0
+/images/upload/8d7bf154537a20126444aa6736bdb09b_1411762323.10 1 80674 0 0
+/items/viewnologinuser.html 3 8226 0 0
+/users/profileitemlist/2.html 17 1263538 0 1
+/spros/listfuncbuild.html 55 29803 0 0
+/items/details/10.html 2 89806 0 0
+/admin/fields/catid/2.html 8 476700 0 0
+/images/upload/e70ca4d2814d5e508bc8b4bdf945da0a_1411729141.54 6 7898391 0 1
+/site/selectcity 24 5010 0 0
+/items/upload 2 192 0 0
+/images/upload/68b56f3279312de1452da42678325057_1409163426.07 52 8257086 0 2
+/items/details/11.html 2 89756 0 0
+/admin/fields/catid/11.html 7 548047 0 0
+/items/details/8.html 1 45028 0 0
+/admin/fields/catid/1.html 9 679967 0 0
+/arenda/sdaetsya-2h-kom-kva-ra-53.html 1 46494 0 1
+/images/upload/f7e2ef9735908927a50484dc491a5c1c_1411729087.54 33 19746720 0 0
+/users/profileitemlist/4.html 21 1528387 0 0
+/gii/controller/ 3 17675 0 0
+END_SIDER
